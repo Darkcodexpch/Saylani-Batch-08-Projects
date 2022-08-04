@@ -116,15 +116,15 @@ body {
 @media (max-width: 400px) {
 .container{
     width: 80%;
-    height: 70%;
+    height: 100%;
 }
 .calcbutton {
-    margin: 0.9rem 0;
+    margin: 1.8rem 0;
 }
  .calcbutton>button{
-  width: 3rem;
-  height: 3rem;
-  font-size: 2.5rem;
+  width: 5rem;
+  height: 5rem;
+  font-size: 3rem;
  } 
     /* CSS */
     
