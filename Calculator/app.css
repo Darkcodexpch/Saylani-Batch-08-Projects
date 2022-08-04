@@ -41,7 +41,7 @@ body {
 .calcbutton {
     display: flex;
     justify-content: space-around;
-    margin: 10px 0;
+    margin: 1rem 0;
 }
 
 .calcbutton>button {
@@ -119,7 +119,7 @@ body {
     height: 70%;
 }
 .calcbutton {
-    margin: 1.8rem 0;
+    margin: 0.9rem 0;
 }
  .calcbutton>button{
   width: 5rem;
