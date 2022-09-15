@@ -43,11 +43,20 @@ body {
 
 }
 
+.heading{
+    margin: 1rem 0;
+    text-align: center;
+    font-size: 2rem;
+}
 
 @media only screen and (max-width: 600px) {
     .container{
         width: 320px;
         height: 250px;
 
+    }
+    .heading{
+        margin: 0.5rem;
+        font-size: 1.5rem;
     }
 }
