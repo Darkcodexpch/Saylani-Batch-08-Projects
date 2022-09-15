@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>js-slider-assignment</title>
+    <link href="app.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="slide">
+            <img src="/images/slide1.jpg" alt="slide-1">
+            <h1 class="text">Beautiful places in world</h1>
+        </div>
+        <div class="slide">
+            <img src="/images/slide2.jpg" alt="slide-2">
+            <h1 class="text">Beautiful places in world</h1>
+        </div>
+        <div class="slide">
+            <img src="/images/slide3.jpg" alt="slide-3">
+            <h1 class="text">Beautiful places in world</h1>
+        </div>
+
+        <div class="ar-right" onclick="countSlides(-1)">
+            &larr;
+
+        </div>
+        <div class="ar-left" onclick="countSlides(1)">
+
+            &rarr;
+        </div>
+        <div class="dots"">
+            <span class="dot" onclick="countsDots(0)"></span>
+            <span class="dot" onclick="countsDots(1)"></span>
+            <span class="dot" onclick="countsDots(2)"></span>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>
