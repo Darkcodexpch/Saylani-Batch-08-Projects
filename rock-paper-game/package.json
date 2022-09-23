@@ -1,7 +1,11 @@
-{"scripts": {
+
+{"homepage" : "https://darkcodexpch.github.io/Saylani-Batch-08-Projects/rock-paper-game/",
+
+  "scripts": {
   "start": "vite",
-  "url" : "https://darkcodexpch.github.io/Saylani-Batch-08-Projects/rock-paper-game/",
-  "build":"vite build"
+  "build":"vite build",
+  "deploy":"gh-pages -d build"
+
 
 },
   "devDependencies": {
