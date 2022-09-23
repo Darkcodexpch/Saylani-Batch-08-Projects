@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Paper Game </title>
+    
+    <script src="app.js"></script>
+  <link rel="stylesheet" href="/assets/index.11ebc8d6.css">
+</head>
+
+<div class="container-one flex justify-center items-center h-screen flex-col">
+    <div class="message"></div>
+    <div class="displayName m-2">
+        <h1 class="text-lg font-semibold my-4 text-center mt-2 font-mono md:text-xl">Welcome to Rock Paper Sizer Game !
+        </h1>
+    </div>
+    <div class="enter-info flex border border-yellow-300 p-8 w-full max-w-xs items-center flex-col">
+        <input type="text" placeholder="please enter your name"
+            class="shadow appearance-none border rounded w-full py-4 px-4 text-gray-700 leading-tight focus:outline-none focus:shadow-outline my-name" />
+        <button
+            class="bg-yellow-500 hover:bg-yellow-400 active:bg-yellow-400 focus:outline-none focus:ring focus:bg-yellow-100 rounded-lg py-1 px-4 font-medium mt-5"
+            onclick="checkFunctionality()">
+            Start Game
+        </button>
+    </div>
+</div>
+<!------------------------------------------------------------- container 2 ------------------------------------->
+<div class="container-two flex justify-center items-center h-screen flex-col" style="display: none;">
+    <div class="m-2" id="displayName">
+    </div>
+    <div class="head-text my-4">
+        <h1 class="text-xl font-medium font-mono">Please Select one option</h1>
+    </div>
+    <div class="select-ans flex border border-yellow-300 p-8 w-full max-w-xs justify-around">
+        <button
+            class="bg-yellow-500 hover:bg-yellow-400 active:bg-yellow-400 focus:outline-none focus:ring focus:bg-yellow-100 rounded-lg  p-4 font-bold mt-5"
+            onclick="userChoice('Rock')">
+            Rock
+        </button>
+        <button
+            class="bg-yellow-500 hover:bg-yellow-400 active:bg-yellow-400 focus:outline-none focus:ring focus:bg-yellow-100 rounded-lg  p-4 font-bold mt-5"
+            onclick="userChoice('Paper')">
+            Paper
+        </button>
+        <button
+            class="bg-yellow-500 hover:bg-yellow-400 active:bg-yellow-400 focus:outline-none focus:ring focus:bg-yellow-100 rounded-lg  p-4 font-bold mt-5"
+            onclick="userChoice('Sizer')">
+            sizer
+        </button>
+    </div>
+</div>
+<!----------------------------------------------- container  three----------------------------------------->
+<div class="container-three flex justify-center items-center h-screen" style="display: none;">
+    <div
+        class="select-ans flex border border-yellow-300 p-8 w-full max-w-xs justify-around flex-col justify-center items-center">
+        <div class="winner">
+
+        </div>
+        <button
+            class="bg-yellow-500 hover:bg-yellow-400 active:bg-yellow-400 focus:outline-none focus:ring focus:bg-yellow-100 rounded-lg  p-2 font-bold mt-5 w-3/4"
+            onclick="startAgain()">
+            Again Game start?
+        </button>
+    </div>
+</div>
+
+
+<body>
+</body>
+
+</html>
