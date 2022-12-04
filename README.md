@@ -1,8 +1,8 @@
 # Saylani-Batch-08-Projects
  
 ## List All projects made in batch-08
-<!-- <li><a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/Calculator/" target="_blank">Calculator Using Html Css Javascript</a></li>
- <li><a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/slider/" target="_blank">Normal Slider Using Html Css Javascript</a></li>
+[<a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/Calculator/" target="_blank">Calculator Using Html Css Javascript</a>]
+ <!-- <li><a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/slider/" target="_blank">Normal Slider Using Html Css Javascript</a></li>
  <li><a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/hexcodeGenerator/" target="_blank">Hex Code Generator Using Html Css Javascript</a></li>
   <li><a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/rock-paper-game/" target="_blank">Rock Paper Sizer Game Using Html Tailwind-Css Javascript</a></li>
   <li><a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/digital-clock/" target="_blank">Digital Clock</a></li>
