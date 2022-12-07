@@ -1,6 +1,7 @@
 # Saylani-Batch-08-Projects
  
 ## List All projects made in batch-08
+# HTML CSS JAVASCRIPT PROJECTS :
 - <a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/Calculator/" target="_blank">Calculator Using Html Css Javascript</a>
  - <a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/slider/" target="_blank">Normal Slider Using Html Css Javascript</a>
  - <a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/hexcodeGenerator/" target="_blank">Hex Code Generator Using Html Css Javascript</a>
