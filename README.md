@@ -1,12 +1,12 @@
 # Saylani-Batch-08-Projects
  
 ## List All projects made in batch-08
-# HTML CSS JAVASCRIPT PROJECTS :
-- <a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/Calculator/" target="_blank">Calculator Using Html Css Javascript</a>
- - <a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/slider/" target="_blank">Normal Slider Using Html Css Javascript</a>
- - <a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/hexcodeGenerator/" target="_blank">Hex Code Generator Using Html Css Javascript</a>
-  - <a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/rock-paper-game/" target="_blank">Rock Paper Sizer Game Using Html Tailwind-Css Javascript</a>
-- <a href="https://darkcodexpch.github.io/Saylani-Batch-08-Projects/digital-clock/" target="_blank">Digital Clock</a>
+## HTML CSS JAVASCRIPT PROJECTS :
+- <a href="https://kamra-nn.github.io/Saylani-Batch-08-Projects/Calculator/" target="_blank">Calculator Using Html Css Javascript</a>
+ - <a href="https://kamra-nn.github.io/Saylani-Batch-08-Projects/slider/" target="_blank">Normal Slider Using Html Css Javascript</a>
+ - <a href="https://kamra-nn.github.io/Saylani-Batch-08-Projects/hexcodeGenerator/" target="_blank">Hex Code Generator Using Html Css Javascript</a>
+  - <a href="https://kamra-nn.github.io/Saylani-Batch-08-Projects/rock-paper-game/" target="_blank">Rock Paper Sizer Game Using Html Tailwind-Css Javascript</a>
+- <a href="https://kamra-nn.github.io/Saylani-Batch-08-Projects/digital-clock/" target="_blank">Digital Clock</a>
 
 <!--<p align="left">
 <a href="https://twitter.com/here_darkcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="here_darkcode" height="30" width="40" /></a>
