@@ -14,6 +14,6 @@
 <a href="https://fb.com/darkcodexpch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darkcodexpch" height="30" width="40" /></a>
 <a href="https://instagram.com/this_coder_is_alive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this_coder_is_alive" height="30" width="40" /></a>
 </p>-->
- ###Connect with me:
+ ## Connect with me:
 - Email: ikamihere@gmail.com
 - phone : +923102920744
